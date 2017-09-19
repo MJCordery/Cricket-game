@@ -44,5 +44,7 @@ print(bangladesh_players)
 
 # how might me streamline this code instead of copying + pasting and
 # changing the values to be for the perth scorchers team
+# https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+
 # maybe we can use the csv module on the csv files instead of splitting the line
 # https://docs.python.org/3/library/csv.html
